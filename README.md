@@ -7,14 +7,14 @@ Petunjuk :
 
 git clone pada terminal anda :
 
-                    git clone https://github.com/ikhsansyahrizal/195410006_ResponsiCloud.git
+                    git clone https://github.com/vogapranata/voga-pranata.git
 pull image dari dockerhub ke terminal anda :
 
-                     docker pull ikhsansyahrizal/195410006responsi
+                     docker pull vogapranata/kikivogapranata
 masuk kedalam direktori file yang diambil dari github :
 
-                     cd 195410006_ResponsiCloud
-setelah masuk kedalam direktori 195410006_ResponsiCloud/ jalankan perintah berikut :
+                     cd voga-pranata
+setelah masuk kedalam direktori voga-pranata jalankan perintah berikut :
 
                      docker-compose up -d
 setelah selesai buka web browser anda lalu masuk ke localhost :
